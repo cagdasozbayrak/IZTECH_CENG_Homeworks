@@ -1,0 +1,17 @@
+﻿Build started 27.11.2016 14:36:58.
+     1>Project "C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\220201013_Cagdas_Ozbayrak_child\220201013_Cagdas_Ozbayrak_child.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt child.c
+         child.c
+     1>c:\users\cagda\desktop\220201013_cagdas_ozbayrak\220201013_cagdas_ozbayrak_child\child.c(36): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\cagda\desktop\220201013_cagdas_ozbayrak\220201013_cagdas_ozbayrak_child\child.c(40): warning C4129: 'B': unrecognized character escape sequence
+     1>c:\users\cagda\desktop\220201013_cagdas_ozbayrak\220201013_cagdas_ozbayrak_child\child.c(53): warning C4129: 'i': unrecognized character escape sequence
+     1>c:\users\cagda\desktop\220201013_cagdas_ozbayrak\220201013_cagdas_ozbayrak_child\child.c(131): warning C4020: 'removeItem': too many actual parameters
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\Debug\220201013_Cagdas_Ozbayrak_child.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\Debug\220201013_Cagdas_Ozbayrak_child.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\Debug\220201013_Cagdas_Ozbayrak_child.lib" /MACHINE:X86 Debug\child.obj
+         220201013_Cagdas_Ozbayrak_child.vcxproj -> C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\Debug\220201013_Cagdas_Ozbayrak_child.exe
+     1>Done Building Project "C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\220201013_Cagdas_Ozbayrak_child\220201013_Cagdas_Ozbayrak_child.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39

@@ -1,0 +1,4 @@
+﻿  main.c
+d:\school work\operating systems\220201013_cagdas_ozbayrak_hw3\220201013_hw3\main.c(32): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  220201013_hw3.vcxproj -> D:\School work\Operating Systems\220201013_Cagdas_Ozbayrak_hw3\Debug\220201013_hw3.exe
+  220201013_hw3.vcxproj -> D:\School work\Operating Systems\220201013_Cagdas_Ozbayrak_hw3\Debug\220201013_hw3.pdb (Full PDB)

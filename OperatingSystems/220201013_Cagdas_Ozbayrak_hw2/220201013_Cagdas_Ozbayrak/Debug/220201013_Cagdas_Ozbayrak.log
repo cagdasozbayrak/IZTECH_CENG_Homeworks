@@ -1,0 +1,18 @@
+﻿Build started 27.11.2016 14:36:58.
+     1>Project "C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\220201013_Cagdas_Ozbayrak\220201013_Cagdas_Ozbayrak.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt parent.c
+         parent.c
+     1>c:\users\cagda\desktop\220201013_cagdas_ozbayrak\220201013_cagdas_ozbayrak\parent.c(8): warning C4013: 'time' undefined; assuming extern returning int
+     1>c:\users\cagda\desktop\220201013_cagdas_ozbayrak\220201013_cagdas_ozbayrak\parent.c(21): warning C4129: 'B': unrecognized character escape sequence
+     1>c:\users\cagda\desktop\220201013_cagdas_ozbayrak\220201013_cagdas_ozbayrak\parent.c(29): warning C4129: 'i': unrecognized character escape sequence
+     1>c:\users\cagda\desktop\220201013_cagdas_ozbayrak\220201013_cagdas_ozbayrak\parent.c(69): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+     1>c:\users\cagda\desktop\220201013_cagdas_ozbayrak\220201013_cagdas_ozbayrak\parent.c(69): warning C4024: 'CreateProcessA': different types for formal and actual parameter 6
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\Debug\220201013_Cagdas_Ozbayrak.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\Debug\220201013_Cagdas_Ozbayrak.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\Debug\220201013_Cagdas_Ozbayrak.lib" /MACHINE:X86 Debug\parent.obj
+         220201013_Cagdas_Ozbayrak.vcxproj -> C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\Debug\220201013_Cagdas_Ozbayrak.exe
+     1>Done Building Project "C:\Users\cagda\Desktop\220201013_Cagdas_Ozbayrak\220201013_Cagdas_Ozbayrak\220201013_Cagdas_Ozbayrak.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.43
